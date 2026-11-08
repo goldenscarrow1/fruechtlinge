@@ -1,2 +1,2 @@
-# fruechtlinge
-a small databank project
+The fruechtlinge is a databank project, regarding the back-end of shopping platforms.
+
